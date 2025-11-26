@@ -13,3 +13,8 @@
 - Styling Options For React Aplications;
 - Using CSS Modules;
 - Nested Routes and Index Route;
+- Storing State in the URL;
+- Dynamic Routes with URL Parameters;
+- Reading and Setting a Query String(useSearchParams());
+- Programmatic Navigation With useNavigate();
+- Programmatic Navigation With <Navigate /> Component;
