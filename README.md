@@ -9,7 +9,7 @@
 
 **What I learned**
 - React Router;
-- Linking Between Routes with <Link /> and <NavLink />;
+- Linking Between Routes with Link and NavLink;
 - Styling Options For React Aplications;
 - Using CSS Modules;
 - Nested Routes and Index Route;
