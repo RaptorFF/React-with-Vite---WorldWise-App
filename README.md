@@ -18,3 +18,5 @@
 - Reading and Setting a Query String(useSearchParams());
 - Programmatic Navigation With useNavigate();
 - Programmatic Navigation With <Navigate /> Component;
+- Advanced State Management System: Context + useReducer();
+- Authentication(Setting Up Context, Implementing Login, Protecting the Route);
