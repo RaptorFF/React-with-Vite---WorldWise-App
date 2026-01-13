@@ -1,5 +1,4 @@
 // Uses the same styles as Product
-<<<<<<< HEAD
 import PageNav from "../components/PageNav";
 import styles from "./Product.module.css";
 
@@ -8,15 +7,6 @@ export default function Product() {
     <main className={styles.product}>
       <PageNav />
 
-=======
-import styles from "./Product.module.css";
-import PageNav from "../components/PageNav";
-
-export default function Pricing() {
-  return (
-    <main className={styles.product}>
-      <PageNav />
->>>>>>> origin/main
       <section>
         <div>
           <h2>

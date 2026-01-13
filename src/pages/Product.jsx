@@ -5,10 +5,6 @@ export default function Product() {
   return (
     <main className={styles.product}>
       <PageNav />
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/main
       <section>
         <img
           src="img-1.jpg"
